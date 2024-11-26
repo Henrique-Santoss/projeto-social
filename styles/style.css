@@ -17,7 +17,7 @@ html, body{
 }
 
 body{
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('../images/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
     background-color: black;
@@ -36,7 +36,7 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../images/frame-iphone.png') no-repeat;
 }
 
 iframe#tela{
