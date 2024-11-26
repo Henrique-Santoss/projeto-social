@@ -20,7 +20,7 @@ O projeto é estruturado da seguinte forma:
 ### index.html
 Este arquivo contém a estrutura básica do site, incluindo os elementos HTML e a importação dos arquivos CSS e JavaScript.
 
-### estilos/style.css
+### styles/style.css
 Este arquivo contém as regras de estilo gerais para o site, incluindo o design responsivo e a estilização dos elementos.
 
 ## Como Executar o Projeto
